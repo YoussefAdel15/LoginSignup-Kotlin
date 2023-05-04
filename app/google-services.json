@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1039030839562",
+    "project_id": "kotlin-login-66696",
+    "storage_bucket": "kotlin-login-66696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039030839562:android:74ddfbb20be05af57bf2f3",
+        "android_client_info": {
+          "package_name": "com.YoussefAPK.LoginSignUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039030839562-k3jk6chcqfp134goifchopk41irllg7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfV-8BwP5zQd-j85CA8vgHEy3UOP8Ucnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039030839562-k3jk6chcqfp134goifchopk41irllg7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039030839562:android:66e6396b488d11a37bf2f3",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039030839562-k3jk6chcqfp134goifchopk41irllg7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfV-8BwP5zQd-j85CA8vgHEy3UOP8Ucnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039030839562-k3jk6chcqfp134goifchopk41irllg7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
